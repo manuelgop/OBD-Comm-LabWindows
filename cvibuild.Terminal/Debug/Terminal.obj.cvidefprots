@@ -1,0 +1,24 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[panelCB]
+Class="Function"
+Prototype="int panelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[START_READING]
+Class="Function"
+Prototype="int START_READING(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[COMMAND_START]
+Class="Function"
+Prototype="int COMMAND_START(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[STOP_READING]
+Class="Function"
+Prototype="int STOP_READING(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

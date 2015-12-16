@@ -1,0 +1,1 @@
+-force-include-file "Terminal.c";"c:\Users\Manuel\Documents\ITESM\Final Interfaces\Final_interfaz_Fierrari\P08a_Sensing_Temperature_DLPDesign-IO20_Working\Terminal.c" 
